@@ -1,0 +1,30 @@
+C:\Users\vitor\Desktop\Teste Prático\decomposicaoNumeros\bin\Debug\net6.0\decomposicaoNumeros.exe
+c:\Users\vitor\Desktop\Teste Prático\decomposicaoNumeros\bin\Debug\net6.0\decomposicaoNumeros.deps.json
+c:\Users\vitor\Desktop\Teste Prático\decomposicaoNumeros\bin\Debug\net6.0\decomposicaoNumeros.runtimeconfig.json
+C:\Users\vitor\Desktop\Teste Prático\decomposicaoNumeros\bin\Debug\net6.0\decomposicaoNumeros.dll
+C:\Users\vitor\Desktop\Teste Prático\decomposicaoNumeros\bin\Debug\net6.0\decomposicaoNumeros.pdb
+C:\Users\vitor\Desktop\Teste Prático\decomposicaoNumeros\obj\Debug\net6.0\decomposicaoNumeros.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\Teste Prático\decomposicaoNumeros\obj\Debug\net6.0\decomposicaoNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Desktop\Teste Prático\decomposicaoNumeros\obj\Debug\net6.0\decomposicaoNumeros.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\Teste Prático\decomposicaoNumeros\obj\Debug\net6.0\decomposicaoNumeros.AssemblyInfo.cs
+C:\Users\vitor\Desktop\Teste Prático\decomposicaoNumeros\obj\Debug\net6.0\decomposicaoNumeros.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\Teste Prático\decomposicaoNumeros\obj\Debug\net6.0\decomposicaoNumeros.dll
+C:\Users\vitor\Desktop\Teste Prático\decomposicaoNumeros\obj\Debug\net6.0\refint\decomposicaoNumeros.dll
+C:\Users\vitor\Desktop\Teste Prático\decomposicaoNumeros\obj\Debug\net6.0\decomposicaoNumeros.pdb
+c:\Users\vitor\Desktop\Teste Prático\decomposicaoNumeros\obj\Debug\net6.0\decomposicaoNumeros.genruntimeconfig.cache
+c:\Users\vitor\Desktop\Teste Prático\decomposicaoNumeros\obj\Debug\net6.0\ref\decomposicaoNumeros.dll
+C:\Users\vitor\Desktop\Teste Prático\Parte 1\decomposicaoNumeros\bin\Debug\net6.0\decomposicaoNumeros.exe
+C:\Users\vitor\Desktop\Teste Prático\Parte 1\decomposicaoNumeros\bin\Debug\net6.0\decomposicaoNumeros.deps.json
+C:\Users\vitor\Desktop\Teste Prático\Parte 1\decomposicaoNumeros\bin\Debug\net6.0\decomposicaoNumeros.runtimeconfig.json
+C:\Users\vitor\Desktop\Teste Prático\Parte 1\decomposicaoNumeros\bin\Debug\net6.0\decomposicaoNumeros.dll
+C:\Users\vitor\Desktop\Teste Prático\Parte 1\decomposicaoNumeros\bin\Debug\net6.0\decomposicaoNumeros.pdb
+C:\Users\vitor\Desktop\Teste Prático\Parte 1\decomposicaoNumeros\obj\Debug\net6.0\decomposicaoNumeros.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\Teste Prático\Parte 1\decomposicaoNumeros\obj\Debug\net6.0\decomposicaoNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Desktop\Teste Prático\Parte 1\decomposicaoNumeros\obj\Debug\net6.0\decomposicaoNumeros.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\Teste Prático\Parte 1\decomposicaoNumeros\obj\Debug\net6.0\decomposicaoNumeros.AssemblyInfo.cs
+C:\Users\vitor\Desktop\Teste Prático\Parte 1\decomposicaoNumeros\obj\Debug\net6.0\decomposicaoNumeros.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\Teste Prático\Parte 1\decomposicaoNumeros\obj\Debug\net6.0\decomposicaoNumeros.dll
+C:\Users\vitor\Desktop\Teste Prático\Parte 1\decomposicaoNumeros\obj\Debug\net6.0\refint\decomposicaoNumeros.dll
+C:\Users\vitor\Desktop\Teste Prático\Parte 1\decomposicaoNumeros\obj\Debug\net6.0\decomposicaoNumeros.pdb
+C:\Users\vitor\Desktop\Teste Prático\Parte 1\decomposicaoNumeros\obj\Debug\net6.0\decomposicaoNumeros.genruntimeconfig.cache
+C:\Users\vitor\Desktop\Teste Prático\Parte 1\decomposicaoNumeros\obj\Debug\net6.0\ref\decomposicaoNumeros.dll
