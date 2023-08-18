@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Star Wars API</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Star Wars API</h1>
+    </header>
+    <main>
+        <div class="controls">
+            <label for="entitySelect">Selecione uma entidade:</label>
+            <select id="entitySelect">
+                <option value="films">Films</option>
+                <option value="people">People</option>
+                <option value="planets">Planets</option>
+                <option value="species">Species</option>
+                <option value="starships">Starships</option>
+                <option value="vehicles">Vehicles</option>
+            </select>
+            <button id="loadButton">Carregar</button>
+        </div>
+        <div class="results" id="result">
+            <table id="resultTable">
+            </table>
+        </div>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
